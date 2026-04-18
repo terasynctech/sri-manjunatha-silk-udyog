@@ -1,9 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Nizamuddin
+N:Nizamuddin;;;;
 ORG:Sri Manjunatha Silk Udyog
 TITLE:Proprietor
 TEL;TYPE=CELL:+918971057772
-ADR;TYPE=WORK:;;#26, 6th Cross, 8th Main, S.R. Nagar;Bangalore;Karnataka;560027;India
-NOTE:Supplier of Precious & Semi Precious Stones, Human Hair, Spices, Cosmetics, Agar Wood & Perfume Products
+ADR;TYPE=WORK:;;No 26, 6th Cross, S.R. Nagar;Bangalore;Karnataka;560027;India
+NOTE:Supplier of Precious Stones, Human Hair, Spices, Cosmetics, Agar Wood & Perfume
 END:VCARD
